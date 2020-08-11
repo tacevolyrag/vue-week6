@@ -1,5 +1,8 @@
 # cli-project
 
+https://tacevolyrag.github.io/vue-week6/dist/#/ 
+https://tacevolyrag.github.io/vue-week6/dist/#/admin admin 
+
 ## Project setup
 ```
 npm install
