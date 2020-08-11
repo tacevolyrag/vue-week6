@@ -3,7 +3,7 @@
 https://tacevolyrag.github.io/vue-week6/dist/#/ 
 
 
-https://tacevolyrag.github.io/vue-week6/dist/#/admin admin 
+https://tacevolyrag.github.io/vue-week6/dist/#/admin/login 登入
 
 ## Project setup
 ```
